@@ -22,7 +22,7 @@ import {
 } from "@mui/material";
 
 const drawerWidth = 240;
-const navItems = ["Home", "About", "Contact"];
+const navItems = ["Home", "About", "Donate", "Contact"];
 
 function App(props) {
   const { window } = props;
@@ -163,10 +163,9 @@ function App(props) {
               width="100%"
             />
             <Typography>
-              More than 30 million children qualify for free or reduced-price
-              lunch during the school year. When the school year ends, millions
-              of children will lose their only meal of the day. Learn why summer
-              hunger can be so devastating to a child, and how you can help.
+              Over a million children die every year due to extreme poverty. For
+              only $1.26 a day you can be a change-maker by providing food and
+              access to life-changing programs for a child.
             </Typography>
           </Grid>
         </Grid>
